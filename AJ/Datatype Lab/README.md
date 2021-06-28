@@ -1,4 +1,4 @@
-# # Lab: Displaying Simple Data Types
+## Lab: Displaying Simple Data Types
 # Displaying Simple Data Types
 # Objectives
 In this lab you will learn how to use primitives in your code. 
