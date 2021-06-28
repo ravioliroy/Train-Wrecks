@@ -1,8 +1,8 @@
-## Lab: Writing Simple Constructors
-# Writing Simple Constructors
-# Objectives
+# Lab: Writing Simple Constructors
+## Writing Simple Constructors
+## Objectives
 Explain how to write a constructor
-# Background
+## Background
 A constructor is a block of code that is executed when a class is instantiated. This block of code is executed once per object that is created. A constructor always have the same name as the class and can accept any number of parameters. By default, if you create a class and don't specify a constructor the compiler will generate one for you. The one generated is called the default no-arg constructor.
 
 For example, say you have the following class
@@ -25,12 +25,12 @@ public class DefaultClass{
         DefaultClass dc = new DefaultClass();
     }
 }
-# Guided Practice
+## Guided Practice
 Now that we have some background on constructors we'll walk through creating a class with different constructors.
 
 Follow the instructions below to setup a new project. 
 
-# Project Setup
+## Project Setup
 Open your IDE (Eclipse), and select File > New > Java Project. Provide the name, Lab-Constructors and click OK. Right-click on the newly created project and select New > Class. Provide the class the name, Constructors and click OK. Now edit the file so that it looks like the following:
 
 public class Constructors {
