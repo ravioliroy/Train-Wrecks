@@ -1,6 +1,6 @@
-# # Lab: Using Arrays
-# Arrays
-# Background
+# Lab: Using Arrays
+## Arrays
+## Background
 In this exercise, you'll practice creating different arrays and using a few properties of arrays.
 
 Arrays are an important construct in many modern languages because they serve as a backbone for higher level data structures. Arrays are also commonly used because they are fast and efficient at obtaining data because of the way the system stores them in memory.
@@ -17,8 +17,8 @@ To initialize an array, you'll need to know its length beforehand. For example, 
 int[] myArray = new int[5];
 Notice that we've also used the new keyword. Anytime you create datatypes other than primitives, you'll use the new keyword.
 
-# Instructions
-# Project Setup
+## Instructions
+## Project Setup
 Open your IDE (Eclipse), and select File > New > Java Project. 
 Provide the name, Lab-Arrays and click Finish.  a. If a window displays to create a module-info.java file then click Don't Create.
 Right-click on the newly created project and select New > Class.
@@ -108,7 +108,7 @@ Reading through the message, you'll see that it is an ArrayIndexOutOfBoundsExcep
 
 As long as you access indexes supported by the array, then you won't get this particular exception…
 
-# Array length property
+## Array length property
 What happens if you're writing a bit of code and you were passed or given an array? How would you know what indexes were available?
 
 You can use the length property of the array to access its size. This property is automatically populated with the array's size on creation and exists whenever an array is created.
@@ -144,8 +144,8 @@ You will see the following output:
 
 Congratulations! You're done.
 
-# # Lab: Multi-dimensional Arrays
-# Background
+# Lab: Multi-dimensional Arrays
+## Background
 In this exercise, you'll practice creating different multi-dimensional arrays and understand how they are organized.
 
 A multi-dimensional array is an array that has an array as one or more of its elements.
@@ -167,10 +167,10 @@ int[][] my2dArray = new int[5][4];
 
 Notice that we've used the new keyword to actually create a new instance of the 2D array. Anytime you create datatypes other than primitives, you'll use the new keyword.
 
-# Guided Practice
+## Guided Practice
 The following section will walk you through creating a small project to define multi-dimensional arrays. 
 
-# Project Setup
+## Project Setup
 Open your IDE (Eclipse), and select File > New > Java Project.
 
 Provide the name, Lab-MultiArrays and click OK.

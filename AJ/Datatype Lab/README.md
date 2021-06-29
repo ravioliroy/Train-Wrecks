@@ -1,10 +1,10 @@
-# # Lab: Displaying Simple Data Types
-# Displaying Simple Data Types
-# Objectives
+# Lab: Displaying Simple Data Types
+## Displaying Simple Data Types
+## Objectives
 In this lab you will learn how to use primitives in your code. 
 
-# Instructions
-# Project Setup
+## Instructions
+## Project Setup
 1. Open your IDE (Eclipse) and select File > New > Java Project. 
 
 2. Provide the name, Lab-Datatypes and click OK. 
@@ -43,10 +43,10 @@ You should now see 'false' printed on the console.
 
 )
 
-# Creating Numbers
+## Creating Numbers
 Now we'll edit the file to create additional variables that are represent the number types (byte, short, int, double, long, float).
 
-# short
+## short
 Skip a line and edit your code to resemble the following:
 
 public class VariableDeclaration {
@@ -67,7 +67,7 @@ You'll see the output from your boolean variable AND your short variable!
 
 )
 
-# int
+## int
 Skip another line and edit your code to resemble the following:
 
 public class VariableDeclaration {
@@ -92,7 +92,7 @@ You'll see the output from your boolean variable, your short variable and your i
 
 )
 
-# float
+## float
 Skip another line and edit your code to resemble the following:
 
 public class VariableDeclaration {
@@ -151,7 +151,7 @@ When you save the file, the red squiggly line and lightbulb should disappear and
 
 )
 
-# long
+## long
 Skip another line and edit your code to resemble the following:
 
 public class VariableDeclaration {
@@ -210,10 +210,10 @@ You'll see the output as expected.
 
 )
 
-# Character datatype
+## Character datatype
 In this next portion, we'll discuss how to define char variables and print out letters to the console. 
 
-# char
+## char
 Skip a line and edit your code to resemble the following:
 
 public class VariableDeclaration {
